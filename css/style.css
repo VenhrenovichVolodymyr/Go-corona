@@ -336,8 +336,8 @@ body {
 .block-text__text:not(:last-child) {
   margin: 0 0 24px 0;
 }
-.blok-text__button {
-}
+/*.blok-text__button {
+}*/
 @media(max-width:767.98px) {
   .block-text__title{
     font-size: 34px;
